@@ -1,2 +1,4 @@
-# ArraysPHP
-EjerciciosPHPDaw2
+# ArraysPHP con HTML
+- Arrays asociativos
+- Arrays multidimensionales
+- Matrices
