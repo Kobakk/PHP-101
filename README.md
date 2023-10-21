@@ -1,4 +1,4 @@
 # ArraysPHP con HTML
-- Arrays asociativos
+- Arrays asociativos `$array = ["clave" => "valor"]:`
 - Arrays multidimensionales
 - Matrices
