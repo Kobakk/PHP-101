@@ -6,3 +6,8 @@
 - Arrays multidimensionales
 - Matrices
 - Formularios
+
+# Formularios PHP
+
+- Verificación
+- Manejo de Exepciones
