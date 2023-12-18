@@ -32,6 +32,7 @@ function ejercicio7(){
     foreach ($arrayCombinado as $clave => $valor){
         echo "Clave: $clave, Valor: $valor<br>";
     }
+    echo "test";
 }
 
 function ejercicio8(){ 
